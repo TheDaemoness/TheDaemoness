@@ -2,7 +2,9 @@
 __Critique Mailer Daemon v5.1 ⓒ 19xx__
 
 I'm a software craftswoman for whom FOSS has been a lifelong passion.
-I agive scathing but (hopefully) constructive code reviews.
+I have been running various Linux distros exclusively for years,
+and I develop software to suit my wants and needs as a hobby.
+I also give scathing but (hopefully) constructive code reviews.
 I enjoy teaching what I know, and have experience in many fields.
 
 ## Getting In Touch
