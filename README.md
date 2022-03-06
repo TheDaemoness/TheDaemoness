@@ -1,11 +1,17 @@
 # TheDaemoness
-__Critique Mailer Daemon v5.1 ⓒ 19xx__
+__Critique Mailer Daemon v5.2 ⓒ 19xx__
 
-I'm a software craftswoman for whom FOSS has been a lifelong passion.
-I have been running various Linux distros exclusively for years,
-and I develop software to suit my wants and needs as a hobby.
+I'm a software craftswoman for whom F/OSS has been a lifelong passion.
+I have been daily driving Linux for years,
+and have been developing software when I see a need for it.
 I also give scathing but (hopefully) constructive code reviews.
-I enjoy teaching what I know, and have experience in many fields.
+I enjoy teaching what I know, and I'd like to think I know some stuff.
+
+## Tools of Choice
+
+* Languages: Rust, Haskell, Scala
+* OS: Linux (Arch, btw)
+* Editor: [Kakoune](https://kakoune.org/) ([for now](https://helix-editor.com/))
 
 ## Getting In Touch
 
