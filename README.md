@@ -1,5 +1,5 @@
 # TheDaemoness
-__Critique Mailer Daemon v5.2 ⓒ 19xx__
+__Critique Mailer Daemon v5.3 ⓒ 19xx__
 
 I'm a software craftswoman for whom F/OSS has been a lifelong passion.
 I have been daily driving Linux for years,
@@ -11,11 +11,17 @@ I enjoy teaching what I know, and I'd like to think I know some stuff.
 
 * Languages: Rust, Haskell, Scala
 * OS: Linux (Arch, btw)
-* Editor: [Kakoune](https://kakoune.org/) ([for now](https://helix-editor.com/))
+* Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
+* Text Editor: [Kakoune](https://kakoune.org/) ([for now](https://helix-editor.com/))
+* Dotfiles: No they're mine you can't have them.
 
 ## Getting In Touch
 
-At the moment, the best way to contact me as a stranger is to PM me on [Libera.Chat](https://libera.chat/).
+Send me an email. If you use the word `albatross` in the subject,
+I'll be more likely to assume you're a real human.
+
+If soft realtime communication is more your thing, I'm on [Libera.Chat](https://libera.chat/).
 I'm on there at all times of day, almost always using the nickname `She`.
 You will need to be registered and authenticated with NickServ.
+
 I usually don't bite.
