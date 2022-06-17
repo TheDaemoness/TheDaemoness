@@ -25,3 +25,5 @@ I'm on there at all times of day, almost always using the nickname `She`.
 You will need to be registered and authenticated with NickServ.
 
 I usually don't bite.
+
+**PGP ECC Public Key**: [`7F75 BD5C DBF7 F1E4 0F95 6513 6023AE3B 887F8E29`](https://pgp.mit.edu/pks/lookup?op=get&search=0x6023AE3B887F8E29)
