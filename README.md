@@ -15,15 +15,22 @@ I enjoy teaching what I know, and I'd like to think I know some stuff.
 * Text Editor: [Kakoune](https://kakoune.org/) ([for now](https://helix-editor.com/))
 * Dotfiles: No they're mine you can't have them.
 
-## Getting In Touch
+## Me In Other Places
 
-Send me an email. If you use the word `albatross` in the subject,
+I'm on [sr.ht](https://git.sr.ht/~daemoness/).
+Many of my projects will be found there instead of Github.
+
+I'm on [Libera.Chat](https://libera.chat/) at almost all times of day,
+almost always using the nickname `She`.
+If you want to chat with me there in private,
+you will need to be [registered and authenticated](https://libera.chat/guides/registration)
+and be in `#linux` (or any other channel that I'm in).
+
+## My Email
+
+My public email address, base64'd to deter web scraping, is `c2hlQGRhZW1vbmVzcy5kZXYK`.
+I use that address in my more recent commits.
+If you use the word `albatross` in the subject,
 I'll be more likely to assume you're a real human.
-
-If soft realtime communication is more your thing, I'm on [Libera.Chat](https://libera.chat/).
-I'm on there at all times of day, almost always using the nickname `She`.
-You will need to be registered and authenticated with NickServ.
-
-I usually don't bite.
 
 **PGP ECC Public Key**: [`7F75 BD5C DBF7 F1E4 0F95 6513 6023AE3B 887F8E29`](https://pgp.mit.edu/pks/lookup?op=get&search=0x6023AE3B887F8E29)
