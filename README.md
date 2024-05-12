@@ -8,7 +8,7 @@ Currently I'm mainly contributing improvements to newer parts of the IRC ecosyst
 
 * Languages: Rust, Haskell, Scala
 * OS: Linux (Arch, btw)
-* Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
+* Terminal: [wezterm](https://github.com/wez/wezterm?tab=readme-ov-file#wezs-terminal)
 * Text Editor: [Kakoune](https://kakoune.org/)
 * IRC Client: [glirc](https://github.com/glguy/irc-core)
 * Dotfiles: No they're mine you can't have them.
