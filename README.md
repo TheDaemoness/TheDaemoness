@@ -1,5 +1,5 @@
-# TheDaemoness
-__Critique Mailer Daemon v5.5 ⓒ 19xx__
+# daemoness
+__Critique Mailer Daemon v5.6 ⓒ 19xx__
 
 I'm a recovering perfectionist who makes stuff for tinkerers/hackers.
 Currently I'm mainly contributing improvements to newer parts of the IRC ecosystem.
@@ -7,7 +7,7 @@ Currently I'm mainly contributing improvements to newer parts of the IRC ecosyst
 ## Tools of Choice
 
 * Languages: Rust, Haskell, Scala
-* OS: Linux (Arch, btw)
+* OS: Gentoo Linux
 * Terminal: [wezterm](https://github.com/wez/wezterm?tab=readme-ov-file#wezs-terminal)
 * Text Editor: [Kakoune](https://kakoune.org/)
 * IRC Client: [glirc](https://github.com/glguy/irc-core)
