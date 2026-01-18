@@ -15,11 +15,10 @@ Currently I'm mainly contributing improvements to newer parts of the IRC ecosyst
 
 ## Me In Other Places
 
-I'm on [sr.ht](https://git.sr.ht/~daemoness/).
-Many of my projects will be found there instead of Github.
+I'm on [codeberg](https://codeberg.org/daemoness).
 
 I'm on [Libera.Chat](https://libera.chat/) as `She`.
-Be aware that I often block PMs from unregistered users.
+Be advised that I often ignore PMs from strangers that aren't obviously support requests.
 
 ## My Emails
 
